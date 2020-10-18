@@ -1,0 +1,124 @@
+#nombre {
+    background-color:rgb(79, 79, 79);
+    color:white;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    padding: 20px;
+}
+#iconoDescarga {
+    background-color:rgb(71, 71, 71);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+    padding: 20px;
+  }
+  #profesion {
+    background-color:rgb(71, 71, 71);
+    color:white;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    padding: 10px;
+  }
+  #be {
+    background-color:rgb(79, 79, 79);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: 30%;
+    padding: 10px;
+  }
+  #home {
+    background-color:rgb(92, 189, 157);
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #resume {
+    background-color:rgb(57, 152, 219);
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #portfolio {
+    background-color:rgb(124, 71, 145);
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #contacts {
+    background-color:rgb(184, 101, 37);
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #feedback {
+    background-color:rgb(231, 76, 60);
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #blog {
+    background-color:rgb(217, 168, 43);
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #resumeInfoTitulo {
+    color:black;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+#resumeInfoSubtitulo {
+  color:red;
+  font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+#padding {
+  padding:25px;
+}
+#personalInfoTitulo {
+  padding:25px;
+  color:black;
+  font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+#personalInfo{
+  background-color:rgb(239, 239, 239);
+}
+#dl1{
+  font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: medium;
+  font-weight: 900;
+}
+#dl2{
+  font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: medium;
+  font-weight: 0;
+}
+
+  #employment {
+    background-color:  rgb(156, 89, 182);
+  }
+  #proSkills {
+    background-color:  rgb(57, 152, 219);
+  }
+  
+  #titulosAbajo {
+    padding:25px;
+    color:white;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  }
+  #textoEmployment{
+    color:white;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  }
+
+
+  .foto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: 90%;
+  }
+  .loguitos {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #link {
+    color: rgb(214, 223, 178);
+  }
